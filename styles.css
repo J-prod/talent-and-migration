@@ -1,6 +1,10 @@
-body{
+body {
     margin: 0;
-    background: pink;
-    text-align:center;
+    background: whitesmoke;
+    text-align: center;
 }
- img { max-width: 100%; height: auto; } 
+
+img {
+    max-width: 100%;
+    height: auto;
+}
