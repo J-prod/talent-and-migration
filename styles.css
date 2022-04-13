@@ -2,9 +2,11 @@ body {
     margin: 0;
     background: whitesmoke;
     text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
-img {
-    max-width: 100%;
-    height: auto;
+img.projectheader{
+    position: absolute;
+    left:0;
+    top:0;
+    width:100%
 }
