@@ -3,10 +3,9 @@ body {
     background: whitesmoke;
     text-align: center;
 }
-
-img {
-    height: auto;
-    margin-left:-15px;
-    margin-right:-15px;
-    width: calc(100%+30px);
+#projectheader{
+    position: absolute;
+    left:0;
+    top:0;
+    width:100%
 }
